@@ -3,4 +3,4 @@
 
 
 ## 第一周
-pyechats示例:
+[pyechats示例](https://github.com/haowang666/Visualiazation_DS/blob/master/Pyecharts.ipynb)
