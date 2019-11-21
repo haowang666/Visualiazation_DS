@@ -3,4 +3,4 @@
 
 
 ## 第一周
-Rechats示例
+pyechats示例:
